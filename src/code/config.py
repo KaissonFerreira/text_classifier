@@ -9,4 +9,3 @@ DATA_INTERIM_DIR = os.path.join(DATA_DIR, 'interim')
 DATA_PROCESSED_DIR = os.path.join(DATA_DIR, 'processed')
 DATA_RAW_FILE = os.path.join(DATA_RAW_DIR, 'review.csv')
 
-print(BASE_DIR)
