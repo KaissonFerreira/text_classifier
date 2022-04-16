@@ -1,6 +1,7 @@
 import pathlib
 import os
 
+
 BASE_DIR = pathlib.Path(__name__).parent.resolve()
 DATA_DIR = os.path.join(BASE_DIR, 'data')
 DATA_RAW_DIR = os.path.join(DATA_DIR, 'raw')
